@@ -2,7 +2,7 @@
 
 ---
 
-layout: slide
+layout: a new slide
 
 title:  " Welcome to our second slide!"
 
